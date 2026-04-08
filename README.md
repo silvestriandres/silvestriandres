@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Andrés Silvestri</h1>
-<h3 align="center">Arquitecto de Software | Tech Lead | Especialista en .NET y APIs de alto impacto</h3>
+<h3 align="center">Tech Lead | Especialista en .NET y APIs de alto impacto | Arquitecto de Software</h3>
 
 <p align="center">
   📍 Buenos Aires, Argentina · 🌎 Remoto / Híbrido <br/>
