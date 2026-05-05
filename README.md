@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Andrés Silvestri</h1>
-<h3 align="center">Tech Lead .NET | Arquitectura de Sistemas Distribuidos | APIs de Alto Tráfico</h3>
+<h3 align="center">Senior .NET Developer | Technical Lead .NET | Microservices</h3>
 
 <p align="center">
   📍 Buenos Aires, Argentina · 🌎 Remoto / Híbrido <br/>
